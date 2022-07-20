@@ -1,0 +1,4 @@
+geth:
+    ethereum:
+        mainnet:
+            uri: http://fullnode.dappnode:8545
